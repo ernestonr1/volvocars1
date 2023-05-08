@@ -24,3 +24,6 @@ We roll the die twice. What is the probability of getting
 (1/6) * (1/6)
 """
 print( (1/6) * (1/6) )
+
+
+#Rolling an in-fair dice.
